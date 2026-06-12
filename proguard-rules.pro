@@ -1,0 +1,3 @@
+-keep class * { public protected *; }
+-keepattributes *Annotation*
+-keepattributes SourceFile,LineNumberTable
